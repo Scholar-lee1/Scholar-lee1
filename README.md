@@ -126,6 +126,17 @@ It's to become capable of understanding increasingly complex systems — and eve
 
 ---
 
+## 🤝 Connect
+
+I'm always open to connecting with people interested in technology, cybersecurity, engineering, AI, and building things.
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-qamardeen-4b3903381/)
+* 📸 [Instagram](https://www.instagram.com/scholarlee1/)
+* 🐙 [GitHub](https://github.com/Scholar-lee1)
+* 📧 [Email](mailto:qamardeenabdullah@gmail.com)
+
+---
+
 > 🌱 **Keep pushing through the next layer.**
 >
 > **Understand → Build → Observe → Break → Defend → Improve**
