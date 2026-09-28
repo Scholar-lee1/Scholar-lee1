@@ -89,7 +89,7 @@ A space-focused prediction and visualization project exploring possible future m
 A web development project built while learning the fundamentals of creating web applications.
 
 ### 📖 [Walk Through](https://github.com/Scholar-lee1/cyber-security-portofolio)
-A collection of learning work and technical walkthroughs documenting what I discover along the way.
+A collection of learning work and technical walkthroughs documenting what I discover in security along the way.
 
 ---
 
