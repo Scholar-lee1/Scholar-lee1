@@ -133,14 +133,6 @@ It's to become capable of understanding increasingly complex systems — and eve
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scholar-lee1\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar-lee1\&layout=compact\&hide_border=true)
-
----
-
 ## 🤝 Connect
 
 I'm always open to connecting with people interested in technology, cybersecurity, engineering, AI, and building things.
