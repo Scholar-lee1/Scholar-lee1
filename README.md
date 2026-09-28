@@ -46,24 +46,24 @@ I'm still learning these areas, not claiming mastery:
 
 ## 🛠️ Technologies I've Worked With
 
-**Languages & Web**
+### 🌐 Languages & Web
 
-* HTML
-* CSS
-* JavaScript
-* Python
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data & Machine Learning**
+### 📊 Data & Machine Learning
 
-* NumPy
-* scikit-learn
-* Matplotlib
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-**Systems & Security**
+### 🔐 Security & Systems
 
-* Linux
-* DVWA
-* Burp Suite
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![DVWA](https://img.shields.io/badge/DVWA-4B4B4B?style=for-the-badge)
 
 ---
 
@@ -79,20 +79,16 @@ Hands-on learning through:
 
 ## 🚀 Projects & Experiments
 
-### 🔮 KagForge Future
-
+### 🔮 [KagForge Future](https://github.com/Scholar-lee1/kagforge_futuure)
 Exploring data, prediction, and future-focused machine learning projects.
 
-### 🌌 FutureCast
-
+### 🌌 [FutureCast](https://github.com/Scholar-lee1/Future_Cast)
 A space-focused prediction and visualization project exploring possible future milestones in space technology.
 
 ### 🛒 E-commerce
-
 A web development project built while learning the fundamentals of creating web applications.
 
-### 📖 Walk Through
-
+### 📖 [Walk Through](https://github.com/Scholar-lee1/cyber-security-portofolio)
 A collection of learning work and technical walkthroughs documenting what I discover along the way.
 
 ---
