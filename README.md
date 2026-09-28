@@ -77,19 +77,30 @@ Hands-on learning through:
 
 ---
 
-## 🚀 Projects & Experiments
+## 🚀 Featured Projects
+
+### 🔐 [Cyber Security Portfolio](https://github.com/Scholar-lee1/cyber-security-portofolio)
+A hands-on cybersecurity learning portfolio documenting my progression from Linux fundamentals toward practical security testing.
+**Exploring:** Linux · OverTheWire Bandit · Network Security · DVWA · Web Security
+> Think like an attacker. Build like a defender. Document like a professional.
+
 
 ### 🔮 [KagForge Future](https://github.com/Scholar-lee1/kagforge_futuure)
-Exploring data, prediction, and future-focused machine learning projects.
+A future-focused machine learning project exploring whether flight-delay probability can be estimated before a flight happens using synthetic aviation data.
+**Built with:** Python · NumPy · pandas · scikit-learn · JupyterLab · Streamlit
+
 
 ### 🌌 [FutureCast](https://github.com/Scholar-lee1/Future_Cast)
-A space-focused prediction and visualization project exploring possible future milestones in space technology.
+A futuristic prediction platform exploring where major space milestones could be heading.
+The project presents projections through a mission-control-style dashboard, combining a Python prediction model with an interactive web interface.
+**Built with:** Python · HTML · CSS · JavaScript
 
-### 🛒 E-commerce
-A web development project built while learning the fundamentals of creating web applications.
 
-### 📖 [Walk Through](https://github.com/Scholar-lee1/cyber-security-portofolio)
-A collection of learning work and technical walkthroughs documenting what I discover in security along the way.
+### 🛒 [E-Commerce Capstone](https://github.com/MikelBlessing/GROUP10-E-COMMERCE-CAPSTONE-PROJ)
+A collaborative e-commerce capstone project I contributed to as part of a team.
+**Role:** Contributor
+**Focus:** Collaborative web development · Team engineering · E-commerce
+
 
 ---
 
